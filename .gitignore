@@ -1,0 +1,17 @@
+target
+.project
+.classpath
+.settings
+.idea
+.metadata
+*.log
+*.iml
+*.ipr
+*.iws
+.DS_Store
+automation2/spec/reports
+.metadata
+*/bin
+**/overlays/
+*.strutsdia
+scripts/config-changes/*.diff
